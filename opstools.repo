@@ -1,0 +1,10 @@
+
+# !!! Warning !!!
+# Repo URL and the whole repo file is subject to change due to transition
+# from Cloud SIG to Opstools SIG
+
+[centos-opstools]
+name=CentOS Opstools SIG repo
+baseurl=http://cbs.centos.org/repos/cloud7-openstack-optools-candidate/x86_64/os/
+enabled=1
+gpgcheck=0
